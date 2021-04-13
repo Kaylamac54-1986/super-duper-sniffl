@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: 'Garbage '
+labels: bug
+assignees: Kaylamac54-1986
 
 ---
 
